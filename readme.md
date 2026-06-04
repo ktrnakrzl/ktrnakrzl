@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- 🔵 HERO BANNER IMAGE (REPLACE THIS) -->
-<img src="YOUR_BANNER_IMAGE_URL_HERE" width="100%"/>
+<img src="https://media.tenor.com/Dd2dQDlK2cAAAAAj/ishowspeed-speed.gif" width="100%"/>
 
-# 👋 Hi, I'm Ktrnakrzl
+# 👋 Hi, I'm Kathrina
 ### ⚙️ Automation • 🤖 AI Systems • 🛡️ SOC Cybersecurity
 
 </div>
