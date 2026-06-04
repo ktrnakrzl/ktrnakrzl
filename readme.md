@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kath</h1>
 <h3 align="center">4th Year Computer Science Student</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/5qbofo9sJsgAAAAd/my-mom-is-kinda-homeless-ishowspeed.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ktrnakrzl&label=Profile%20views&color=0e75b6&style=flat" alt="ktrnakrzl" /> </p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ktrnakrzl&label=Profile%20views&color=0e75b6&style=flat" alt="ktrnakrzl" />
+</p>
 
 - 🌱 I'm currently learning **RAG systems, LLMs, SBERT, FAISS, Phi-3 Mini**
 - 💬 Ask me about **AI/ML architectures, RAG pipelines, Linux, cybersecurity, log analysis**
@@ -10,35 +14,15 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 📫 Connect with me
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/kathrinakrizelloria/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-      </a>
-    </td>
+<p align="left">
+  <a href="https://www.linkedin.com/in/kathrinakrizelloria/" target="_blank">LinkedIn</a> •
+  <a href="https://github.com/ktrnakrzl" target="_blank">GitHub</a> •
+  <a href="https://instagram.com/ktrnakrzl" target="_blank">Instagram</a> •
+  <a href="https://tryhackme.com/p/ktrnakrzl" target="_blank">TryHackMe</a>
+</p>
 
-    <td>
-      <a href="https://github.com/ktrnakrzl" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-      </a>
-    </td>
-
-    <td>
-      <a href="https://instagram.com/ktrnakrzl" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-      </a>
-    </td>
-
-    <td>
-      <a href="https://tryhackme.com/p/ktrnakrzl" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tryhackme.svg" alt="TryHackMe" height="30" width="40" />
-      </a>
-    </td>
-  </tr>
-</table>
 ---
 
 ## 🎯 Focus Areas
@@ -54,8 +38,11 @@
 
 ### Mathiva – RAG-Based Mathematics Tutoring Application
 
-<img width="1000" height="600" alt="mathiva_rag_pipeline_v2" src="https://github.com/user-attachments/assets/6e41dd75-1a61-40be-86be-193d9d619a59" />
-
+<img 
+  src="https://github.com/user-attachments/assets/6e41dd75-1a61-40be-86be-193d9d619a59" 
+  alt="mathiva_rag_pipeline_v2" 
+  style="width: 80%; max-width: 800px; height: auto;" 
+/>
 
 - SBERT + FAISS semantic retrieval  
 - OCR-based math recognition  
@@ -153,7 +140,6 @@
 </p>
 
 **PostgreSQL** • **MySQL** • **pgvector**
-
 
 ---
 
