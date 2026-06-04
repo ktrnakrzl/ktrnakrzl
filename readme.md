@@ -117,35 +117,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ktrnakrzl&show_icons=true&theme=radical" />
-
-</div>
-
----
-
-## 📈 Top Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktrnakrzl&layout=compact&theme=radical" />
-
-</div>
-
----
-
-## 📸 Visual Section (ADD YOUR OWN IMAGES)
-
-### 🧪 Labs / Practice
-<img src="YOUR_LAB_IMAGE_URL_HERE" width="80%"/>
-
-### 📂 Project Preview
-<img src="YOUR_PROJECT_IMAGE_URL_HERE" width="80%"/>
-
----
+![ktrnakrzl's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ktrnakrzl&theme=radical)
 
 ## 📫 Contact
 
