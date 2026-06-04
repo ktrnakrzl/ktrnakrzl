@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🔵 HERO BANNER IMAGE -->
-<img src="https://media1.tenor.com/m/5qbofo9sJsgAAAAd/my-mom-is-kinda-homeless-ishowspeed.gif" width="80%"/>
+<img src="https://media1.tenor.com/m/5qbofo9sJsgAAAAd/my-mom-is-kinda-homeless-ishowspeed.gif" width="50%"/>
 
 # 👋 Hi, I'm Kathrina
 ### ⚙️ Automation • 🤖 AI/ML • 🛡️ Cybersecurity
@@ -78,11 +78,11 @@
 
 <div align="center">
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/ktrnakrzl.png" />
 
 </div>
 
-🔗 https://tryhackme.com/p/YOUR_USERNAME
+🔗 https://tryhackme.com/p/ktrnakrzl
 
 ---
 
@@ -111,7 +111,7 @@
 
 - 📧 Email: kathrinakrizell@gmail.com  
 - 💻 GitHub: https://github.com/ktrnakrzl  
-- 🧪 TryHackMe: https://tryhackme.com/p/YOUR_USERNAME  
+- 🧪 TryHackMe: https://tryhackme.com/p/ktrnakrzl 
 
 ---
 
