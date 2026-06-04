@@ -1,18 +1,41 @@
-<div align="left">
-  
-# 👋 Hi, I'm Kathrina
-### 3rd Year Computer Science Student
+<h1 align="center">Hi 👋, I'm Kathrina</h1>
+<h3 align="center">4th Year Computer Science Student</h3>
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/5qbofo9sJsgAAAAd/my-mom-is-kinda-homeless-ishowspeed.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ktrnakrzl&label=Profile%20views&color=0e75b6&style=flat" alt="ktrnakrzl" /> </p>
 
 - 🌱 I'm currently learning **RAG systems, LLMs, SBERT, FAISS, Phi-3 Mini**
 - 💬 Ask me about **AI/ML architectures, RAG pipelines, Linux, cybersecurity, log analysis**
-- 📧 How to reach me: **[Your Email]**
-- ⚡ Fun fact: I quit my 9-5 nightshift job to focus on my thesis and build AI systems
+- 📧 How to reach me **kathrinakrizell@gmail.com**
+- ⚡ Fun fact **I quit my 9-5 nightshift job to focus on my thesis and build AI systems**
 
-</div>
+---
 
-<div align="right">
-  <img src="https://media1.tenor.com/m/5qbofo9sJsgAAAAd/my-mom-is-kinda-homeless-ishowspeed.gif" width="100%"/>
-</div>
+<h3 align="left">Connect with me:</h3>
+
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ktrnakrzl" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://tryhackme.com/p/ktrnakrzl" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TryHackMe" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:kathrinakrizell@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -25,85 +48,9 @@
 
 ---
 
-## 🔗 Connect with me:
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](your-github-url)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kathrinakrizell@gmail.com)
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### 🐍 Languages
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,dart,java,bash" />
-</div>
-**Python** • **Dart** • **Java** • **Bash**
-
----
-
-### 🤖 AI/ML & Data Science
-<div align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</div>
-**PyTorch** • **SBERT** • **FAISS** • **SymPy** • **SciPy** • **NumPy** • **Phi-3 Mini** • **T5** • **Google ML Kit** • **Pix2tex (OCR)**
-
----
-
-### ☁️ Cloud & Infrastructure
-<div align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,postgresql" />
-</div>
-**AWS (EC2)** • **Docker** • **Supabase** • **pgvector** • **System Design**
-
----
-
-### 🔙 Backend & APIs
-<div align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,python" />
-</div>
-**FastAPI** • **PostgreSQL** • **MySQL** • **RESTful APIs** • **System Architecture**
-
----
-
-### 📱 Frontend
-<div align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-</div>
-**Flutter** • **Dart** • **KaTeX (Math Rendering)** • **Responsive Design**
-
----
-
-### 🛡️ Cybersecurity & Threat Intelligence
-<div align="center">
-<img src="https://skillicons.dev/icons?i=linux,bash,kali" />
-</div>
-**Linux** • **Kali Linux** • **Wireshark** • **Nmap** • **SQLmap** • **OSINT** • **Log Analysis** • **Incident Response** • **SIEM (Splunk)** • **MITRE ATT&CK Framework** • **Threat Hunting** • **Blue Team Operations**
-
----
-
-### 🔧 Tools & Version Control
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,bash" />
-</div>
-**Git** • **GitHub** • **Bash Scripting** • **Linux Administration**
-
----
-
-### 📊 Databases
-<div align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</div>
-**PostgreSQL** • **MySQL** • **pgvector (Vector Database)** • **Query Optimization**
-
 ## 🚀 Current Project
 
-## 🤖 Mathiva – RAG-Based Mathematics Tutoring Application
+### Mathiva – RAG-Based Mathematics Tutoring Application
 
 - SBERT + FAISS semantic retrieval  
 - OCR-based math recognition  
@@ -111,36 +58,47 @@
 - AI-generated explanations  
 - Spaced repetition learning system  
 
-<div align="center">
+---
 
-<img src="YOUR_PROJECT_IMAGE_URL_HERE" width="80%"/>
+## 🛠️ Tech Stack
 
-</div>
+### 🐍 Languages
+<img src="https://skillicons.dev/icons?i=python,dart,java,bash" />
+
+**Python** • **Dart** • **Java** • **Bash**
+
+### 🤖 AI/ML & Data Science
+**PyTorch** • **SBERT** • **FAISS** • **SymPy** • **SciPy** • **NumPy** • **Phi-3 Mini** • **T5** • **Google ML Kit** • **Pix2tex**
+
+### ☁️ Cloud & Infrastructure
+**AWS (EC2)** • **Docker** • **Supabase** • **pgvector** • **System Design**
+
+### 🔙 Backend & APIs
+**FastAPI** • **PostgreSQL** • **MySQL** • **RESTful APIs**
+
+### 📱 Frontend
+**Flutter** • **Dart** • **KaTeX** • **Responsive Design**
+
+### 🛡️ Cybersecurity & Threat Intelligence
+**Linux** • **Kali Linux** • **Wireshark** • **Nmap** • **SQLmap** • **OSINT** • **SIEM (Splunk)** • **MITRE ATT&CK** • **Threat Hunting** • **Blue Team Operations**
+
+### 🔧 Tools & Version Control
+**Git** • **GitHub** • **Bash Scripting** • **Linux Administration**
+
+### 📊 Databases
+**PostgreSQL** • **MySQL** • **pgvector**
 
 ---
 
-## 🧪 TryHackMe Training
-
+## 🧪 TryHackMe
 <div align="center">
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/ktrnakrzl.png" />
-
 </div>
 
-🔗 https://tryhackme.com/p/ktrnakrzl
-
 ---
 
-## 📫 Contact
-
-- 📧 Email: kathrinakrizell@gmail.com  
-- 💻 GitHub: https://github.com/ktrnakrzl  
-- 🧪 TryHackMe: https://tryhackme.com/p/ktrnakrzl 
-
----
-
+## 📊 GitHub Stats
 <div align="center">
-
-⭐ *Building systems that automate, analyze, and defend.* ⭐
-
+<img src="https://github-readme-stats.vercel.app/api?username=ktrnakrzl&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktrnakrzl&layout=compact&theme=radical" />
 </div>
