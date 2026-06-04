@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kath</h1>
 <h3 align="center">4th Year Computer Science Student</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/5qbofo9sJsgAAAAd/my-mom-is-kinda-homeless-ishowspeed.gif">
+<img align="right" alt="Coding" width="200" src="https://media1.tenor.com/m/5qbofo9sJsgAAAAd/my-mom-is-kinda-homeless-ishowspeed.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ktrnakrzl&label=Profile%20views&color=0e75b6&style=flat" alt="ktrnakrzl" />
