@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 Current Project
+# 🚀 Current Project
 
 ## 🚀 Mathiva – RAG-Based Mathematics Tutoring Application
 
@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<!-- 📌 PROJECT IMAGE (REPLACE THIS) -->
+<!-- 📌 PROJECT IMAGE  -->
 <img src="YOUR_PROJECT_IMAGE_URL_HERE" width="80%"/>
 
 </div>
@@ -82,7 +82,17 @@
 
 ---
 
-## 🛡️ Cybersecurity (SOC Track)
+## 🛡️ Cybersecurity Training
+### 🔒 TryHackMe Profile
+
+<div align="center">
+
+
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1203230" width="60%"/>
+
+</div>
+
+[View Full Profile](https://tryhackme.com/p/ktrnakrzl)
 
 - 📊 Log analysis & monitoring (SOC Tier 1 focus)  
 - 🌐 Network fundamentals (TCP/IP, DNS, HTTP basics)  
@@ -91,15 +101,6 @@
 - 🧪 Security lab practice (simulated environments)  
 
 ---
-
-## 🧪 Cybersecurity Training (TryHackMe)
-
-<div align="center">
-
-<!-- 🛡️ BADGE (OPTIONAL) -->
-<img src="YOUR_TRYHACKME_IMAGE_OR_BADGE_URL_HERE" width="60%"/>
-
-</div>
 
 - 🛡️ Hands-on SOC analyst training labs  
 - 🌐 Network traffic analysis practice  
@@ -152,9 +153,9 @@
 
 ## 📫 Contact
 
-- 📧 Email: your-email-here  
+- 📧 Email: kathrinakrizell@gmail.com 
 - 💻 GitHub: https://github.com/ktrnakrzl  
-- 🧪 TryHackMe: https://tryhackme.com/p/YOUR_USERNAME  
+- 🧪 TryHackMe: https://tryhackme.com/p/ktrnakrzl
 
 ---
 
