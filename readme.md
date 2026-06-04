@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- 🔵 HERO BANNER IMAGE (REPLACE THIS) -->
-<img src="https://media.tenor.com/Dd2dQDlK2cAAAAAj/ishowspeed-speed.gif" width="20%"/>
+<!-- 🔵 HERO BANNER IMAGE -->
+<img src="https://media1.tenor.com/m/5qbofo9sJsgAAAAd/my-mom-is-kinda-homeless-ishowspeed.gif" width="80%"/>
 
 # 👋 Hi, I'm Kathrina
 ### ⚙️ Automation • 🤖 AI/ML • 🛡️ Cybersecurity
@@ -14,50 +14,27 @@
 
 - 🎓 BS Computer Science Student  
 - ⚙️ Focused on automation systems & scripting  
-- 🤖 Interested in artificial intelligence and machine learning applications  
+- 🤖 Interested in artificial intelligence and machine learning  
+- 🛡️ SOC Analyst track (log analysis, monitoring, Linux, incident response)  
 - 🌐 Exploring defensive cybersecurity operations and system behavior  
 
 ---
 
-# 🚀 Current Project
+## 🚀 Current Project
 
-## 🚀 Mathiva – RAG-Based Mathematics Tutoring Application
+## 🤖 Mathiva – RAG-Based Mathematics Tutoring Application
 
-**A comprehensive AI tutoring system for SHS STEM students (Grades 11-12) at Upper Bicutan National High School, combining retrieval-augmented generation, symbolic math solving, computer vision, and spaced repetition learning.**
-
-### 🎯 Core Features
-
-- **RAG Pipeline**: SBERT + FAISS semantic retrieval, Phi-3/T5 answer generation
-- **Math Solver**: SymPy/SciPy for equations, calculus, statistics
-- **Multi-Modal Input**: Text queries + OCR (handwritten problems)
-- **Spaced Repetition**: SM-2 algorithm for adaptive learning
-- **Progress Tracking**: Student data persistence, learning analytics
-
-### 🛠️ Technology Stack
-
-| Component | Technology |
-|-----------|-----------|
-| **Frontend** | Flutter/Dart (Android + iOS), KaTeX |
-| **Backend API** | FastAPI, Uvicorn |
-| **ML/NLP** | SBERT, Phi-3 Mini, T5  |
-| **Math Engine** | SymPy, SciPy, NumPy |
-| **Vector Search** | FAISS, BM25 |
-| **OCR** | Google ML Kit v2, Pix2tex |
-| **Database** | PostgreSQL + pgvector, Supabase |
-| **Deployment** | AWS EC2 |
-| **Tools** | PyTorch, Git/GitHub, Ollama |
+- SBERT + FAISS semantic retrieval  
+- OCR-based math recognition  
+- Symbolic solving (SymPy)  
+- AI-generated explanations  
+- Spaced repetition learning system  
 
 <div align="center">
 
-<!-- 📌 PROJECT IMAGE  -->
 <img src="YOUR_PROJECT_IMAGE_URL_HERE" width="80%"/>
 
 </div>
-
-- 🤖 OCR-based math problem recognition  
-- 🧠 AI-powered explanation system  
-- 🔎 Retrieval-based learning engine (RAG-style approach)  
-- 📊 Built for interactive and personalized learning  
 
 ---
 
@@ -65,67 +42,76 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,linux,bash,git,github,mysql,postgresql" />
 
 </div>
-
----
-
-## 🤖 AI / Machine Learning Stack
-
-- 🧠 Machine Learning fundamentals (classification, regression basics)  
-- 🔎 Optical Character Recognition (OCR)  
-- 📚 Retrieval-based systems (RAG-style learning approach)  
-- 📊 Data preprocessing & dataset preparation  
-- 🧪 Model experimentation & evaluation (beginner level)  
-
----
-
-### 🛡️ Cybersecurity Training
-### 🔒 TryHackMe Profile
 
 <div align="center">
 
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1203230" width="60%"/>
+**Python** • **Java** • **Linux** • **Bash** • **Git** • **GitHub** • **MySQL** • **PostgreSQL**
 
 </div>
 
-🔗 Profile: https://tryhackme.com/p/ktrnakrzl
+---
 
-- 📊 Log analysis & monitoring (SOC Tier 1 focus)  
-- 🌐 Network fundamentals (TCP/IP, DNS, HTTP basics)  
-- 🐧 Linux system administration & command-line tools  
-- 🚨 Incident detection & alert investigation  
-- 🧪 Security lab practice (simulated environments)  
+## 🤖 AI / Machine Learning
+
+- Machine learning fundamentals  
+- OCR (Optical Character Recognition)  
+- Retrieval-based systems (RAG)  
+- Data preprocessing  
+- Model experimentation  
 
 ---
 
-- 🛡️ Hands-on SOC analyst training labs  
-- 🌐 Network traffic analysis practice  
-- 🐧 Linux privilege escalation basics  
-- 🚨 Incident response scenarios  
-- 📊 Log analysis & attack investigation  
+## 🛡️ Cybersecurity (SOC Track)
+
+- Log analysis & monitoring  
+- Network fundamentals  
+- Linux system administration  
+- Incident detection & investigation  
+- Security lab practice  
+
+---
+
+## 🧪 TryHackMe Training
+
+<div align="center">
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png" />
+
+</div>
+
+🔗 https://tryhackme.com/p/YOUR_USERNAME
 
 ---
 
 ## ⚙️ Automation
 
-- 🧾 Bash scripting for task automation  
-- 🔄 Workflow automation concepts  
-- 📁 System-level automation tasks  
-- 🤖 AI-assisted scripting exploration  
+- Bash scripting  
+- Workflow automation  
+- System-level scripting  
+- AI-assisted automation experiments  
 
 ---
 
-## 📊 Activity
+## 📊 GitHub Stats
 
-![ktrnakrzl's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ktrnakrzl&theme=radical)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ktrnakrzl&show_icons=true&theme=radical" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktrnakrzl&layout=compact&theme=radical" />
+
+</div>
+
+---
 
 ## 📫 Contact
 
-- 📧 Email: kathrinakrizell@gmail.com 
+- 📧 Email: kathrinakrizell@gmail.com  
 - 💻 GitHub: https://github.com/ktrnakrzl  
-- 🧪 TryHackMe: https://tryhackme.com/p/ktrnakrzl
+- 🧪 TryHackMe: https://tryhackme.com/p/YOUR_USERNAME  
 
 ---
 
