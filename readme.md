@@ -15,7 +15,6 @@
 - 🎓 BS Computer Science Student  
 - ⚙️ Focused on automation systems & scripting  
 - 🤖 Interested in artificial intelligence and machine learning applications  
-- 🛡️ SOC Analyst track (log analysis, monitoring, Linux, incident response)  
 - 🌐 Exploring defensive cybersecurity operations and system behavior  
 
 ---
@@ -82,17 +81,16 @@
 
 ---
 
-## 🛡️ Cybersecurity Training
+### 🛡️ Cybersecurity Training
 ### 🔒 TryHackMe Profile
 
 <div align="center">
-
 
 <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1203230" width="60%"/>
 
 </div>
 
-[View Full Profile](https://tryhackme.com/p/ktrnakrzl)
+🔗 Profile: https://tryhackme.com/p/ktrnakrzl
 
 - 📊 Log analysis & monitoring (SOC Tier 1 focus)  
 - 🌐 Network fundamentals (TCP/IP, DNS, HTTP basics)  
@@ -108,11 +106,9 @@
 - 🚨 Incident response scenarios  
 - 📊 Log analysis & attack investigation  
 
-🔗 Profile: https://tryhackme.com/p/YOUR_USERNAME
-
 ---
 
-## ⚙️ Automation Skills
+## ⚙️ Automation
 
 - 🧾 Bash scripting for task automation  
 - 🔄 Workflow automation concepts  
