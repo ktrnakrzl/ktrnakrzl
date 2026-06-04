@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kathrina</h1>
+<h1 align="center">Hi 👋, I'm Kath</h1>
 <h3 align="center">4th Year Computer Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/5qbofo9sJsgAAAAd/my-mom-is-kinda-homeless-ishowspeed.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ktrnakrzl&label=Profile%20views&color=0e75b6&style=flat" alt="ktrnakrzl" /> </p>
@@ -15,7 +15,7 @@
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
-      <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+      <a href="https://www.linkedin.com/in/kathrinakrizelloria/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
       </a>
     </td>
