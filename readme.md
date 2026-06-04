@@ -19,24 +19,26 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
       </a>
     </td>
+
     <td>
       <a href="https://github.com/ktrnakrzl" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
       </a>
     </td>
+
     <td>
-      <a href="https://tryhackme.com/p/ktrnakrzl" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TryHackMe" height="30" width="40" />
+      <a href="https://instagram.com/ktrnakrzl" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
       </a>
     </td>
+
     <td>
-      <a href="mailto:kathrinakrizell@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+      <a href="https://tryhackme.com/p/ktrnakrzl" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tryhackme.svg" alt="TryHackMe" height="30" width="40" />
       </a>
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🎯 Focus Areas
@@ -51,6 +53,9 @@
 ## 🚀 Current Project
 
 ### Mathiva – RAG-Based Mathematics Tutoring Application
+
+<img width="1000" height="600" alt="mathiva_rag_pipeline_v2" src="https://github.com/user-attachments/assets/6e41dd75-1a61-40be-86be-193d9d619a59" />
+
 
 - SBERT + FAISS semantic retrieval  
 - OCR-based math recognition  
