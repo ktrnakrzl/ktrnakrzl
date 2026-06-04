@@ -1,24 +1,105 @@
-<div align="center">
-
-<!-- 🔵 HERO BANNER IMAGE -->
-<img src="https://media1.tenor.com/m/5qbofo9sJsgAAAAd/my-mom-is-kinda-homeless-ishowspeed.gif" width="50%"/>
-
+<div align="left">
+  
 # 👋 Hi, I'm Kathrina
-### ⚙️ Automation • 🤖 AI/ML • 🛡️ Cybersecurity
+### 3rd Year Computer Science Student
+
+- 🌱 I'm currently learning **RAG systems, LLMs, SBERT, FAISS, Phi-3 Mini**
+- 💬 Ask me about **AI/ML architectures, RAG pipelines, Linux, cybersecurity, log analysis**
+- 📧 How to reach me: **[Your Email]**
+- ⚡ Fun fact: I quit my 9-5 nightshift job to focus on my thesis and build AI systems
+
+</div>
+
+<div align="right">
+  <img src="https://media1.tenor.com/m/5qbofo9sJsgAAAAd/my-mom-is-kinda-homeless-ishowspeed.gif" width="100%"/>
+</div>
+
+---
+
+## 🎯 Focus Areas
+
+- 🤖 **AI/ML**: RAG systems, embeddings, LLM integration, SymPy solvers
+- ☁️ **Cloud Engineering**: AWS (EC2), Docker, infrastructure deployment, scalable systems
+- 🛡️ **Cybersecurity**: SOC analyst track, log analysis, incident response, Linux
+- ⚙️ **Backend**: FastAPI, Python, PostgreSQL, system architecture design
+
+---
+
+## 🔗 Connect with me:
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](your-github-url)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kathrinakrizell@gmail.com)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🛠️ Tech Stack
 
-- 🎓 BS Computer Science Student  
-- ⚙️ Focused on automation systems & scripting  
-- 🤖 Interested in artificial intelligence and machine learning  
-- 🛡️ SOC Analyst track (log analysis, monitoring, Linux, incident response)  
-- 🌐 Exploring defensive cybersecurity operations and system behavior  
+### 🐍 Languages
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,dart,java,bash" />
+</div>
+**Python** • **Dart** • **Java** • **Bash**
 
 ---
+
+### 🤖 AI/ML & Data Science
+<div align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</div>
+**PyTorch** • **SBERT** • **FAISS** • **SymPy** • **SciPy** • **NumPy** • **Phi-3 Mini** • **T5** • **Google ML Kit** • **Pix2tex (OCR)**
+
+---
+
+### ☁️ Cloud & Infrastructure
+<div align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,postgresql" />
+</div>
+**AWS (EC2)** • **Docker** • **Supabase** • **pgvector** • **System Design**
+
+---
+
+### 🔙 Backend & APIs
+<div align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,python" />
+</div>
+**FastAPI** • **PostgreSQL** • **MySQL** • **RESTful APIs** • **System Architecture**
+
+---
+
+### 📱 Frontend
+<div align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+</div>
+**Flutter** • **Dart** • **KaTeX (Math Rendering)** • **Responsive Design**
+
+---
+
+### 🛡️ Cybersecurity & Threat Intelligence
+<div align="center">
+<img src="https://skillicons.dev/icons?i=linux,bash,kali" />
+</div>
+**Linux** • **Kali Linux** • **Wireshark** • **Nmap** • **SQLmap** • **OSINT** • **Log Analysis** • **Incident Response** • **SIEM (Splunk)** • **MITRE ATT&CK Framework** • **Threat Hunting** • **Blue Team Operations**
+
+---
+
+### 🔧 Tools & Version Control
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,bash" />
+</div>
+**Git** • **GitHub** • **Bash Scripting** • **Linux Administration**
+
+---
+
+### 📊 Databases
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</div>
+**PostgreSQL** • **MySQL** • **pgvector (Vector Database)** • **Query Optimization**
 
 ## 🚀 Current Project
 
@@ -38,42 +119,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,linux,bash,git,github,mysql,postgresql" />
-
-</div>
-
-<div align="center">
-
-**Python** • **Java** • **Linux** • **Bash** • **Git** • **GitHub** • **MySQL** • **PostgreSQL**
-
-</div>
-
----
-
-## 🤖 AI / Machine Learning
-
-- Machine learning fundamentals  
-- OCR (Optical Character Recognition)  
-- Retrieval-based systems (RAG)  
-- Data preprocessing  
-- Model experimentation  
-
----
-
-## 🛡️ Cybersecurity (SOC Track)
-
-- Log analysis & monitoring  
-- Network fundamentals  
-- Linux system administration  
-- Incident detection & investigation  
-- Security lab practice  
-
----
-
 ## 🧪 TryHackMe Training
 
 <div align="center">
@@ -83,27 +128,6 @@
 </div>
 
 🔗 https://tryhackme.com/p/ktrnakrzl
-
----
-
-## ⚙️ Automation
-
-- Bash scripting  
-- Workflow automation  
-- System-level scripting  
-- AI-assisted automation experiments  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ktrnakrzl&show_icons=true&theme=radical" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktrnakrzl&layout=compact&theme=radical" />
-
-</div>
 
 ---
 
