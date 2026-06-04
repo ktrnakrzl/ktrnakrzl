@@ -41,7 +41,7 @@
 <img 
   src="https://github.com/user-attachments/assets/6e41dd75-1a61-40be-86be-193d9d619a59" 
   alt="mathiva_rag_pipeline_v2" 
-  style="width: 80%; max-width: 800px; height: auto;" 
+  style="width: 80%; max-width: 500px; height: auto;" 
 />
 
 - SBERT + FAISS semantic retrieval  
