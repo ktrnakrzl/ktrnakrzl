@@ -4,7 +4,7 @@
 <img src="https://media.tenor.com/Dd2dQDlK2cAAAAAj/ishowspeed-speed.gif" width="20%"/>
 
 # 👋 Hi, I'm Kathrina
-### ⚙️ Automation • 🤖 AI Systems • 🛡️ SOC Cybersecurity
+### ⚙️ Automation • 🤖 AI/ML • 🛡️ Cybersecurity
 
 </div>
 
@@ -22,7 +22,31 @@
 
 ## 🚀 Current Project
 
-### 📱 Mathiva – AI Learning System
+## 🚀 Mathiva – RAG-Based Mathematics Tutoring Application
+
+**A comprehensive AI tutoring system for SHS STEM students (Grades 11-12) at Upper Bicutan National High School, combining retrieval-augmented generation, symbolic math solving, computer vision, and spaced repetition learning.**
+
+### 🎯 Core Features
+
+- **RAG Pipeline**: SBERT + FAISS semantic retrieval, Phi-3/T5 answer generation
+- **Math Solver**: SymPy/SciPy for equations, calculus, statistics
+- **Multi-Modal Input**: Text queries + OCR (handwritten problems)
+- **Spaced Repetition**: SM-2 algorithm for adaptive learning
+- **Progress Tracking**: Student data persistence, learning analytics
+
+### 🛠️ Technology Stack
+
+| Component | Technology |
+|-----------|-----------|
+| **Frontend** | Flutter/Dart (Android + iOS), KaTeX |
+| **Backend API** | FastAPI, Uvicorn |
+| **ML/NLP** | SBERT, Phi-3 Mini, T5  |
+| **Math Engine** | SymPy, SciPy, NumPy |
+| **Vector Search** | FAISS, BM25 |
+| **OCR** | Google ML Kit v2, Pix2tex |
+| **Database** | PostgreSQL + pgvector, Supabase |
+| **Deployment** | AWS EC2 |
+| **Tools** | PyTorch, Git/GitHub, Ollama |
 
 <div align="center">
 
