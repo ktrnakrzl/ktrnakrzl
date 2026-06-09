@@ -10,8 +10,7 @@
 - 🌱 I'm currently learning **RAG systems, LLMs, SBERT, FAISS, Phi-3 Mini**
 - 💬 Ask me about **AI/ML architectures, RAG pipelines, Linux, cybersecurity, log analysis**
 - 📧 How to reach me **kathrinakrizell@gmail.com**
-- ⚡ Fun fact **I quit my 9-5 nightshift job to focus on my thesis and build AI systems**
-
+- ⚡ Fun fact **Nothing idk**
 ---
 
 ## 📫 Connect with me
