@@ -35,7 +35,7 @@
 
 ## 🚀 Current Project
 
-### Mathiva – RAG-Based Mathematics Tutoring Application
+### Mathiva – A Hybrid AI Mathematics Tutoring Application
 
 <img 
   align="right"
